@@ -15,3 +15,4 @@ To run this project
 Contains basic CRUD Operations and to write queries and see results on frontend itself.
 
 (ER Diagram in deliverables folder)
+![3](https://user-images.githubusercontent.com/77086162/209655901-33b4fa14-31d3-4701-9a8f-d7118b81bb12.PNG)
